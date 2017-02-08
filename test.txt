@@ -1,9 +1,0 @@
-情景1：
-git checkout -- readme.txt 撤销修改文件
-
-情景2：
-git reset HEAD readme.txt  撤销暂存区的修改文件
-git checkout -- readme.txt
-
-情景3：
-提交了，commit ,只能用版本回退了
